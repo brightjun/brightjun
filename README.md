@@ -1,4 +1,10 @@
 ### Hi there 👋
+### i'm begginer for progamming launguage. i'm going to edit my README.md file using Markdown and shields.io.
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#FF0000?style=plastic&logo=로고&logoColor=로고색상"/></a>
+
+###<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img ###src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 
 <!--
 **brightjun/brightjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
