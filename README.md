@@ -1,5 +1,5 @@
 ### Welcome 
-i'm begginer for progamming launguage. i'm going to edit my README.md file using Markdown and shields.io.
+hello i am a engineer 
 
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/brightjun/brightjun.svg?style=social)](https://github.com/brightjun/brightjun/watchers)
